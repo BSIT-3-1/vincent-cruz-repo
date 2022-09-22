@@ -1,5 +1,5 @@
 # vincent-cruz-repo
-Fullname: 
-Block: 
-Email:
-Github:
+Fullname: Vincent M Cruz 
+Block: BSIT 3-1
+Email: vincentcruz54@gmail.com
+Github: MagicBeans54
